@@ -19,5 +19,6 @@ public class ques14 {
         int a=sc.nextInt();
         int b=sc.nextInt();
         d.div(a,b);
+        sc.close();
     }
 }
